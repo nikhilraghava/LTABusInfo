@@ -1,4 +1,0 @@
-App name: LTABusInfo
-App ID: f738381e-9b5e-4286-8762-877918cee32f
-App password: 80SouSDUsE8Q1NnQyCpL67y
-LTA API key:  n3dXhZUZS3uknnIiGPy3IA==
